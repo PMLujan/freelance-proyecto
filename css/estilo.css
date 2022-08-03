@@ -257,3 +257,11 @@ h1,h2,h3{
 .sobremi p{
     line-height: 35px;
 }
+.contenedor-sobremi{
+    margin: 6rem auto;
+    min-height: 30rem;
+    width: 80rem;
+    border-radius: 1rem;
+    text-align: center;
+    background-color: lineal gradient(to bottom,var(--secundario)0%, var(--blanco)100%);
+}
