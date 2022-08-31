@@ -168,6 +168,22 @@ h1,h2,h3{
     align-items: center;
 }
 /*contacto*/
+.error{
+    background-color: red;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+.alerta{
+    background-color: var(--primario);
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
 .formulario{
     background-color: var(--gris);
     border-radius: 1rem;
