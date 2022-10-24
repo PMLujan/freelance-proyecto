@@ -56,4 +56,7 @@ function mostrarMensaje(mensaje){
         setTimeout(() => {
             alerta.remove();
           }, 3000);
+          setTimeout(() => {
+            location.reload();
+          }, 4000);
 };
